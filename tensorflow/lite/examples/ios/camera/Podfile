@@ -9,5 +9,5 @@ target 'tflite_camera_example'
   # Note: TFLite GPU Delegate binary isn't released yet, but we're working
   # on it.
 
-  pod 'TensorFlowLite', '1.13.1'
-  # pod 'TensorFlowLiteGpuExperimental', '0.0.1'
+  #pod 'TensorFlowLite', '1.13.1'
+   pod 'TensorFlowLiteGpuExperimental', '0.0.1'
